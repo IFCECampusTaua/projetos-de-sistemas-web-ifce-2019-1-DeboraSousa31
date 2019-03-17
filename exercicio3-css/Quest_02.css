@@ -1,0 +1,51 @@
+
+.header {
+   background-color:#1E90FF;
+   padding: 40px;
+   text-align: center;
+   color: white;
+   position: relative;
+   font-family: arial;
+
+}
+
+
+#corpo{
+   font-family: arial;
+   background-color:white;
+   padding: 30px;
+   position: relative;
+   border-radius: 4px;
+}
+
+.borda{
+   background-color: #DCDCDC;
+   padding:20px;
+}
+
+ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;/*especifica o que deve acontecer se o conteúdo ultrapassar a caixa de um elemento.*/
+     background-color: #4169E1;   
+     position: relative;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: arial;
+}
+
+#alinhar{
+   float: center;
+}
+

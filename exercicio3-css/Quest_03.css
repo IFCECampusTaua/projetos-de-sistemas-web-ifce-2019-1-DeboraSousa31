@@ -1,0 +1,74 @@
+table{
+  border-style: solid;
+  border-width: 1px; 
+  border-color: #DDDDDD;
+  font-family: Arial;
+ }
+
+.coram{
+  color: #003366;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+  
+}
+
+#corac{
+  color: #1398BE;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.corlar{
+  color: #DE9800;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+
+th{
+   font-size: 13px;
+   color: #999999;
+   font-weight: bold;
+   text-align: center;
+}
+
+.times{
+  font-size: 14px;
+  color: #666666;
+  font-weight: bold;
+  text-align: left;
+  width: 20%;
+
+}
+
+.pontos{
+  font-size: 14px;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  background-color: #F7F7F7;
+  width: 3%;
+}
+
+td{
+  font-size: 14px;
+  color: #666666;
+  text-align: center;
+  width: 3%;
+  border-top: 1px solid #DDDDDD;
+ }
+
+.corFundo{
+  background-color: #F7F7F7;
+}
+
+#teste{
+  border-top: 2px solid #CCCCCC;
+
+}
+
+
+
+
