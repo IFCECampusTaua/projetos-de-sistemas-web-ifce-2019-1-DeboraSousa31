@@ -1,0 +1,139 @@
+body{
+   font-family: arial;
+   
+}
+
+
+ul{
+  list-style-type: none;/*Remove as balas*/
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+li{
+  float: left;
+}
+
+li a{
+  display: block;
+  padding: 15px 16px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
+
+li a:hover{
+  background-color: grey;
+}
+
+
+
+.direita{
+  float: right;
+}
+
+span{
+  font-size: 25px;
+}
+
+input{
+  border-radius: 4px;
+  height: 20px;
+  width: 450px;
+  position: relative;
+  left: 420px;
+  border: 2px solid #ccc;
+  font-size: 15px;
+  padding: 6px;
+  background-image: url('busca.png');
+  background-position: 460px; 
+  background-size: 50px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+
+}
+
+.cabecalho{
+  padding: 15px;
+  
+}
+
+
+.butao{
+  background-color: #008CBA; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 5px;
+  float: right;
+}
+
+input{
+   
+}
+
+.editar{
+  background-color: #FFD700; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+ 
+}
+
+.visualizar{
+  background-color: #008000 ; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  
+}
+
+.excluir{
+  background-color: #FF0000 ; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  
+}
+
+table{
+ padding: 15px;
+ width: 100%;
+}
+
+
+td, th {
+  text-align: left;
+  padding: 5px;
+  
+
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+  
+}
+
+
+
+
