@@ -1,8 +1,6 @@
 body{
-   font-family: arial;
-   
+  font-family: arial;
 }
-
 
 ul{
   list-style-type: none;/*Remove as balas*/
@@ -28,8 +26,6 @@ li a:hover{
   background-color: grey;
 }
 
-
-
 .direita{
   float: right;
 }
@@ -52,14 +48,11 @@ input{
   background-size: 50px;
   background-repeat: no-repeat;
   padding: 12px 20px 12px 40px;
-
 }
 
 .cabecalho{
   padding: 15px;
-  
 }
-
 
 .butao{
   background-color: #008CBA; /* Green */
@@ -73,10 +66,6 @@ input{
   float: right;
 }
 
-input{
-   
-}
-
 .editar{
   background-color: #FFD700; /* Green */
   border: none;
@@ -87,7 +76,6 @@ input{
   margin: 2px 2px;
   cursor: pointer;
   border-radius: 5px;
- 
 }
 
 .visualizar{
@@ -100,7 +88,6 @@ input{
   margin: 2px 2px;
   cursor: pointer;
   border-radius: 5px;
-  
 }
 
 .excluir{
@@ -113,7 +100,6 @@ input{
   margin: 2px 2px;
   cursor: pointer;
   border-radius: 5px;
-  
 }
 
 table{
@@ -121,17 +107,13 @@ table{
  width: 100%;
 }
 
-
 td, th {
   text-align: left;
   padding: 5px;
-  
-
 }
 
 tr:nth-child(even) {
   background-color: #dddddd;
-  
 }
 
 
