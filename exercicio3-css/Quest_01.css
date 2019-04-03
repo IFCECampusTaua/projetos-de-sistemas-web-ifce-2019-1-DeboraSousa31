@@ -1,19 +1,17 @@
 body{
  	background-color: #D3D3D3;/*define a cor do da pagina*/
-  }
+ }
 
 .divcentro{
- 	
-		background-color: #E9E9E9; 
-        width: 500px; 
-        height: 400px; 
-     	left: 50%; 
-   		margin: -200px 0 0 -250px; 
-  		padding:10px;
-     	position: absolute; 
- 		top: 50%; 
-
-  }
+ 	background-color: #E9E9E9; 
+    width: 500px; 
+    height: 400px; 
+    left: 50%; 
+   	margin: -200px 0 0 -250px; 
+  	padding:10px;
+    position: absolute; 
+ 	top: 50%;
+}
 
 #linha{
 	width: 415px;
@@ -26,21 +24,17 @@ body{
 	font-family: arial;
 	font-size: 40px;
 	margin: 10px;
-
 }
 
 .identificacao{
 	font-family: arial;
 	margin: 20px;
-	
 }
-
 
 #input{
 	width: 98%;/*largura*/
 	border-radius: 4px;/*aredondar os cantos*/
 	padding: 5px;/* gerar espaço em torno do conteúdo de um elemento*/
-	
 }
 
 #butao{
@@ -53,11 +47,9 @@ body{
 	font-family: arial;
 	background-color: #008B8B;
 	color: #FFFFFF;
-	
 }
 
 #rodape{
-	
 		background-color: #DCDCDC; 
         width: 500px; 
         height: 40px; 
@@ -78,5 +70,4 @@ body{
 	font-family: arial;
 	background-color: #FFFFFF;
 	color: #008B8B;
-	
 }
